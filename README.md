@@ -1,0 +1,1 @@
+The idea of diffusion, building a model that would be able to draw an image of a car for you based on previous inputs. How cool would that be? In this repository, I am creating a knowledge base of the technology that may be used for creating images with a single prompt
